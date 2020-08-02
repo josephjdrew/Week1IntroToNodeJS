@@ -1,2 +1,2 @@
-# Week1IntroToNodeJS
- Assessment 1 Category A Work
+# Week 1: IntroToNodeJS
+ Assessment 1 Week 1 Entry, for Category A section.
